@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **keiona-rob/keiona-rob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: By email keerob17@gmail.com ...
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Most of my schooling has been done with an infant on my lap 😅
--->
+
