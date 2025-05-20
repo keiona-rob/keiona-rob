@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-**keiona-rob/keiona-rob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on expanding my knowledge of html and css
 - 🌱 I’m currently learning how to properly use Git Bash...
