@@ -8,7 +8,7 @@
 
 ###
 
-- 🔭 I’m currently working on expanding my knowledge of html and css
+- 🔭 I’m currently working on expanding my knowledge of HTML and CSS
 - 🌱 I’m currently learning how to properly use Git Bash
 - 👯 I’m looking to collaborate on studying
 - 🤔 I’m looking for help with any Javascript, CSS, and Bootstrap tips and tricks
