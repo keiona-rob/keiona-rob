@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Keiona and I'm a developing developer, from Louisiana</h2>
+<h2 align="left">Hi 👋! My name is Keiona and I'm a developing developer from Louisiana</h2>
 
 
 
